@@ -12,7 +12,7 @@ class student{
         console.log("Age:"+ this.age);
     }
 }
-let s1=new student("Ayesha",20);
+let s1=new student("mahitha",20);
 s1.display();
 
 // Employee class

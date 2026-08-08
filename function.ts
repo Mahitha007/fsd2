@@ -13,7 +13,7 @@ function greet(name: string): void {
     console.log("Hello " + name);
 }
 
-let Username = "Ayesha";
+let Username = "mahitha";
 greet(Username);
 
 // DEFAULT PARAMETER
