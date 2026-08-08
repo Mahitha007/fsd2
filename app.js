@@ -29,6 +29,9 @@ app.get('/api/status', (req, res) => {
     });
 
 });
+app.get('/', (req, res) => {
+    res.send("Welcome to the REST API");
+});
 
 app.listen(port, () => {
 
